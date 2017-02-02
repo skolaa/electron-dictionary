@@ -1,0 +1,14 @@
+{
+  "name": "electronexample",
+  "version": "1.0.0",
+  "description": "This is my first electron app",
+  "main": "main.js",
+  "scripts":{
+    "start":"electron ."
+  },
+  "author": "Shubhangi Goel",
+  "license": "ISC",
+  "devDependencies": {
+    "electron-prebuilt": "^1.4.13"
+  }
+}
